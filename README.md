@@ -35,6 +35,9 @@ To determine the changes of conductivity, noted by equation 1, within a circular
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Csigma%20%5Cfrac%7B%5Cpartial%20u%7D%7B%5Cpartial%20n%7D%20%3D%20I%5B%5Cdelta%28%5Ctheta%20-%20%5Calpha%29%20-%20%5Cdelta%28%5Ctheta%20&plus;%20%5Calpha%29%5D)
 
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
+
+
 
 ### Orientation  
 
