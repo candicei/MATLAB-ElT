@@ -16,9 +16,10 @@ Trouble viewing the GIF? Download the video here: [Video](MATLAB-Output-Images/t
 1. [Introduction to Electrical Impedance Tomography](#intro)
 2. [Problem Description](#problem-description)
 3. [Solution](#solution)
-	1. [Solution to the BVP](#bvp)
+	1. [Solution to the Boundary Value Problem](#bvp)
 	2. [Implementation of the Approximation](#implementation)
 	3. [Overlaying the Solution](#overlay)
+	4. [Impedance Solution](#final)
 4. [Equations](#equations)
 
 ---
@@ -54,7 +55,7 @@ Information about the file:
 
 ## Solution <a name="solution"></a>
 
-### Solution to the BVP <a name="bvp"></a>
+### Solution to the Boundary Value Problem <a name="bvp"></a>
 The solution to the BVP noted by equations [(2)](#equations) and [(3)](#equations) is found to be as shown in equation [(5)](#equations). This is found by using Green's functions. 
 
 I don't go over the derivation here, but if you are interesting in learning how to solve this BVP problem or other BVP problems, I would recommend looking at the lectures provided by Dr. Anthony Pierce on Green's Functions [here](https://www.math.ubc.ca/~peirce/math406_17.htm). 
@@ -75,7 +76,7 @@ Trouble viewing the GIF? Download the video here: [Video](MATLAB-Output-Images/l
 
 
 
-### The Final Solution <a name = "final"></a>
+### Impedance Solution <a name = "final"></a>
 The final solution when overlayed is computed in MATLAB in "project_eit.m".
 
 
