@@ -18,7 +18,7 @@ Trouble viewing the GIF? Download the video here: [Video](MATLAB-Outputs/tumorAn
 3. [Solution](#solution)
 	1. [Solution to the Boundary Value Problem](#bvp)
 	2. [Implementation](#implementation)
-	3. [Overlaying the Solution](#overlay)
+	3. [Superimposing the Solution](#overlay)
 	4. [Impedance Solution](#final)
 4. [Equations](#equations)
 
@@ -40,7 +40,7 @@ This is called an inverse problem because the material properties are determined
 ### The Data <a name="data"></a>
 The data is of simulated voltage measurements along the boundary of a circular region. 
 
-- [Z_data.mat](MATLAB-Code/Z_ddata.mat)
+- [Z_data.mat](MATLAB-Code/Z_data.mat)
 
 Information about the file:
 * Contains 128 = 16 X 8 data points representing the voltage differences from 16 nodes.
@@ -65,7 +65,7 @@ I don't go over the derivation here, but if you are interested in learning how t
 In order to find the conductivity in the material, equation [(6)](#equations) is implemented using voltage measurements (v) from the Z_data.mat file and the (u) calculated from equation [(5)](#equations). 
 
 
-### Overlaying the Solutions <a name = "overlaying"></a>
+### Superimposing the Solutions <a name = "overlaying"></a>
 The gif shows the results of the calculated impedances. To the left, it shows us the inidvidual responses from exciting one of the eight axial nodes. In each frame, the yellow shows a high intensity along a strip that the anomaly exists in. As we rotate around the region, we superimpose all these images to get the image on the right of the gif. The superimposed image provides the location of where the anomoly exists within the circular region (all determined by boundary values)!
 
 <p align="center"> 
