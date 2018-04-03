@@ -43,8 +43,8 @@ The data file is a sequence of "measured data" generated useing a finite element
 - [Z_data.mat](MATLAB-Code/Z_ddata.mat)
 
 Information about the file:
-* Conatines 128 = 16 X 8 data points representing the voltage differences from 16 nodes.
-* The nodes are uniformly distributed alon ghte boundary of the circle.
+* Contains 128 = 16 X 8 data points representing the voltage differences from 16 nodes.
+* The nodes are uniformly distributed along the boundary of the circle.
 * Due to symmetry, there are only 8 indepedent axially distributed nodes simulating the pairs k - k'.
 * The first of the 16 is along the x axis, aka the phi angle is 0.
 * Z1 is the voltage difference between the stimulating axis T1 and the next terminal marked T2.
