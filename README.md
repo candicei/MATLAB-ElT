@@ -77,7 +77,7 @@ Trouble viewing the GIF? Download the video here: [Video](MATLAB-Outputs/layers.
 
 
 ### Final EIT Scan <a name = "final"></a>
-The completed EIT scan is the superposition of the 8 axial excitations. The complete code written in MATLAB can be downloaded here: [project_eit.m](MATLAB-Code/project_eit.mat).
+The completed EIT scan is the superposition of the 8 axial excitations. The complete code written in MATLAB can be downloaded here: [project_eit.m](MATLAB-Code/project_eit.m).
 
 The final scan is seen as the [gif found at the top of the page](#gif)!
 
