@@ -5,10 +5,10 @@ This project is to learn an application of applying Green's Functions towards El
 **See the resulting EIT scan as a gif!**
 
 <p align="center"> 
-<img src="MATLAB-Output-Images/tumor-animation.gif">
+<img src="MATLAB-Outputs/tumor-animation.gif">
 </p>
 
-Trouble viewing the GIF? Download the video here: [Video](MATLAB-Output-Images/tumorAnimation.mp4).
+Trouble viewing the GIF? Download the video here: [Video](MATLAB-Outputs/tumorAnimation.mp4).
 
 
 ---
@@ -69,10 +69,10 @@ In order to find the conductivity in the material, equation [(6)](#equations) is
 The gif shows the results of the calculated impedances. To the left, it shows us the inidvidual responses from exciting one of the eight axial nodes. In each frame, the yellow shows a high intensity along a strip that the anomaly exists in. As we rotate around the region, we superimpose all these images to get the image on the right of the gif. The superimposed image provides the location of where the anomoly exists within the circular region (all determined by boundary values)!
 
 <p align="center"> 
-<img src="MATLAB-Output-Images/layers.gif">
+<img src="MATLAB-Outputs/layers.gif">
 </p>
 
-Trouble viewing the GIF? Download the video here: [Video](MATLAB-Output-Images/layers.mp4).
+Trouble viewing the GIF? Download the video here: [Video](MATLAB-Outputs/layers.mp4).
 
 
 
@@ -87,7 +87,7 @@ The final scan is seen as the [gif found at the top of the page](#gif)!
 An image of the equations used are found in the image below:
 
 <p align="center"> 
-<img src="MATLAB-Output-Images/equations.png">
+<img src="MATLAB-Outputs/equations.png">
 </p>
 
 
