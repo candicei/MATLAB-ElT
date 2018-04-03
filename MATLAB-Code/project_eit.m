@@ -4,7 +4,7 @@
 %     in the region) based on boundary values
 %     
 %     Using the solution  u(r,theta) =
-%     [I*a/(2*pi*omega)]*log[(a^2+r^2+2arcos(phi)/(a^2+r^2-2arcos(phi)]
+%     [I*a/(2*pi*sigma)]*log[(a^2+r^2+2arcos(phi)/(a^2+r^2-2arcos(phi)]
 %     where phi = theta-pi/2
 %
 %     Z_data.txt is a file containing for measurement data of voltages
