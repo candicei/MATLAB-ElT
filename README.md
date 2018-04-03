@@ -31,11 +31,8 @@ In the regular set-up for an EIT system, surface electrodes are attached to the 
 To determine the changes of conductivity, noted by equation 1, within a circular region from a finaite number of voltage measurements on a boundry for a current I applied to parts of the boundary, the boundary value problelm (bvp) is given as:  
 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\triangledown&space;\cdot&space;(\sigma&space;\triangledown&space;u)&space;=&space;0&space;~~~~&space;\Omega&space;=&space;\big\{(r,\theta)&space;:&space;r&space;\leq&space;a,&space;0&space;\leq&space;\theta&space;<&space;2\pi&space;\big\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\triangledown&space;\cdot&space;(\sigma&space;\triangledown&space;u)&space;=&space;0&space;~~~~&space;\Omega&space;=&space;\big\{(r,\theta)&space;:&space;r&space;\leq&space;a,&space;0&space;\leq&space;\theta&space;<&space;2\pi&space;\big\}" title="\triangledown \cdot (\sigma \triangledown u) = 0 ~~~~ \Omega = \big\{(r,\theta) : r \leq a, 0 \leq \theta < 2\pi \big\}" /></a>
-<a href="https://www.codecogs.com/eqnedit.php?latex=\sigma&space;\frac{\partial&space;u}{\partial&space;n}&space;=&space;I[\delta(\theta&space;-&space;\alpha)&space;-&space;\delta(\theta&space;&plus;&space;\alpha)]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma&space;\frac{\partial&space;u}{\partial&space;n}&space;=&space;I[\delta(\theta&space;-&space;\alpha)&space;-&space;\delta(\theta&space;&plus;&space;\alpha)]" title="\sigma \frac{\partial u}{\partial n} = I[\delta(\theta - \alpha) - \delta(\theta + \alpha)]" /></a>
-
-
 <img src="http://www.sciweavers.org/tex2img.php?eq=%5Ctriangledown%20%5Ccdot%20%28%5Csigma%20%5Ctriangledown%20u%29%20%3D%200%20%7E%7E%7E%7E%20%5COmega%20%3D%20%20%5Cbig%5C%7B%28r%2C%5Ctheta%29%20%3A%20r%20%5Cleq%20a%2C%200%20%5Cleq%20%5Ctheta%20%3C%202%5Cpi%20%5Cbig%5C%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\triangledown \cdot (\sigma \triangledown u) = 0 ~~~~ \Omega =  \big\{(r,\theta) : r \leq a, 0 \leq \theta < 2\pi \big\} " width="371" height="21" />
+
 <img src="http://www.sciweavers.org/tex2img.php?eq=%5Csigma%20%20%5Cfrac%7B%5Cpartial%20u%7D%7B%5Cpartial%20n%7D%20%3D%20I%5B%5Cdelta%28%5Ctheta%20-%20%5Calpha%29%20-%20%5Cdelta%28%5Ctheta%20%2B%20%5Calpha%29%5D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\sigma  \frac{\partial u}{\partial n} = I[\delta(\theta - \alpha) - \delta(\theta + \alpha)]" width="235" height="42" />
 
 ### Orientation  
