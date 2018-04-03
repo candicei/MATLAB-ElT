@@ -7,7 +7,7 @@ See the resulting EIT layers rendered to produce a 3D gif!
 <p align="center"> 
 <img src="MATLAB-Output-Images/tumor-animation.gif">
 </p>
-Trouble viewing the GIF? Download the video here: [Video](MATLAB-Output-Images/tumor-animation.mp4)
+Trouble viewing the GIF? Download the video here: [Video](MATLAB-Output-Images/tumorAnimation.mp4)
 
 
 ---
