@@ -7,6 +7,7 @@ See the resulting EIT layers rendered to produce a 3D gif!
 <p align="center"> 
 <img src="MATLAB-Output-Images/tumor-animation.gif">
 </p>
+
 Trouble viewing the GIF? Download the video here: [Video](MATLAB-Output-Images/tumorAnimation.mp4)
 
 
@@ -34,4 +35,5 @@ In the regular set-up for an EIT system, surface electrodes are attached to the 
 <p align="center"> 
 <img src="MATLAB-Output-Images/layers.gif">
 </p>
+
 Trouble viewing the GIF? Download the video here: [Video](MATLAB-Output-Images/layers.mp4)
