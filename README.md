@@ -1,5 +1,5 @@
-# Electrical Impedance Tomography (EIT) using Green's Functions
-This project is to learn an application of applying Green's Functions towards Electrical Impedance Tomography (EIT) to image a tumour in a circular region using MATLAB. 
+# Electrical Impedance Tomography (EIT) with Green's Functions
+This project is to learn an application of applying Green's Functions towards Electrical Impedance Tomography (EIT) to image a simulated tumour in a circular region using MATLAB. This is part of a project course from the University of British Columbia.
 
 <a name = "gif"></a>
 **See the resulting EIT scan as a gif!**
@@ -57,8 +57,6 @@ Information about the file:
 
 ### Solution to the Boundary Value Problem <a name="bvp"></a>
 The solution to the BVP noted by equations [(2)](#equations) and [(3)](#equations) is found to be as shown in equation [(5)](#equations). This is found by using Green's functions. 
-
-I don't go over the derivation here, but if you are interested in learning how to solve this BVP problem or other BVP problems, I would recommend looking at the lectures provided by Dr. Anthony Pierce on Green's Functions [here](https://www.math.ubc.ca/~peirce/math406_17.htm). 
 
 
 ### Implementation <a name = "implementation"></a>
